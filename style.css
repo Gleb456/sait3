@@ -1,0 +1,27 @@
+header {
+    background-color: Silver;
+    padding: 1px;
+}
+
+body {
+    background-color: Gray;
+}
+
+h1,h2 {
+    text-align: center;
+}
+
+img {
+    text-align: center;
+    border: 1px solid black;
+}
+
+main p {
+    background-color: Silver;
+    border: 1px solid Black;
+}
+
+footer {
+    background-color: Silver;
+    border: 1px solid black;
+}
